@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using Octokit;
 
-namespace Automatic9045.AtsEx.UpdateChecker.Hosting.GitHub
+namespace Automatic9045.BveEx.UpdateChecker.Hosting.GitHub
 {
     internal sealed class RepositoryHost
     {
