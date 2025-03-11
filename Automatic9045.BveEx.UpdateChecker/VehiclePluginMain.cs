@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using AtsEx.PluginHost.Plugins;
+using BveEx.PluginHost.Plugins;
 
-namespace Automatic9045.AtsEx.UpdateChecker
+namespace Automatic9045.BveEx.UpdateChecker
 {
     [Plugin(PluginType.VehiclePlugin)]
     internal class VehiclePluginMain : AssemblyPluginBase
@@ -20,9 +20,8 @@ namespace Automatic9045.AtsEx.UpdateChecker
         {
         }
 
-        public override TickResult Tick(TimeSpan elapsed)
+        public override void Tick(TimeSpan elapsed)
         {
-            return new VehiclePluginTickResult();
         }
     }
 }

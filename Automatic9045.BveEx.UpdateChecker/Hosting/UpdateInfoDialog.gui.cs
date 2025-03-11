@@ -7,9 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-using Automatic9045.AtsEx.UpdateChecker.Data;
+using Automatic9045.BveEx.UpdateChecker.Data;
 
-namespace Automatic9045.AtsEx.UpdateChecker.Hosting
+namespace Automatic9045.BveEx.UpdateChecker.Hosting
 {
     internal partial class UpdateInfoDialog : Form
     {

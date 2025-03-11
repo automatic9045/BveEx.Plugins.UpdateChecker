@@ -9,10 +9,10 @@ using System.Windows.Forms;
 
 using Markdig;
 
-using Automatic9045.AtsEx.UpdateChecker.Data;
-using Automatic9045.AtsEx.UpdateChecker.Hosting.GitHub;
+using Automatic9045.BveEx.UpdateChecker.Data;
+using Automatic9045.BveEx.UpdateChecker.Hosting.GitHub;
 
-namespace Automatic9045.AtsEx.UpdateChecker.Hosting
+namespace Automatic9045.BveEx.UpdateChecker.Hosting
 {
     internal static class UpdateChecker
     {
