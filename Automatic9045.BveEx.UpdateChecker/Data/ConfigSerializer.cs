@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 
-namespace Automatic9045.AtsEx.UpdateChecker.Data
+namespace Automatic9045.BveEx.UpdateChecker.Data
 {
     internal static class ConfigSerializer
     {

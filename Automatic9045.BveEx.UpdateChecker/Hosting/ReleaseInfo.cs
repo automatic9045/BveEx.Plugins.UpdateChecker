@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Automatic9045.AtsEx.UpdateChecker.Hosting
+namespace Automatic9045.BveEx.UpdateChecker.Hosting
 {
     internal class ReleaseInfo
     {
